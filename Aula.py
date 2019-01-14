@@ -1,7 +1,6 @@
 C:\Users\dbpereira\AppData\Local\Programs\Python\Python37\python.exe
 "C:\Program Files\JetBrains\PyCharm Community Edition 2018.3.3\helpers\pydev\pydevconsole.py" - -mode = client - -port = 64664
-import sys;
-
+import sys
 print('Python %s on %s' % (sys.version, sys.platform))
 sys.path.extend(
     ['C:\\Users\\dbpereira\\PycharmProjects\\pythonbirds', 'C:/Users/dbpereira/PycharmProjects/pythonbirds'])
